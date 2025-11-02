@@ -1,0 +1,16 @@
+.full-height {
+    min-height: 100vh;
+}
+        /* Color de fondo opcional para el sidebar */
+.sidebar-bg {
+    background-color: #f8f9fa; /* Gris claro */
+}
+.tarea.completada{
+    text-decoration: line-through;
+    background-color: black;
+    border: none;
+}
+
+i{
+    cursor: pointer;
+}
